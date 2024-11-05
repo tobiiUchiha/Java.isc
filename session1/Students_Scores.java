@@ -18,6 +18,7 @@ public class FirstSession {
 		int maxScore = max(scores);
 		System.out.println("The best score is " + maxScore );
 		
+		
 	}
 	
 
@@ -46,4 +47,5 @@ public class FirstSession {
 		return maxScore;
 		
 	}
+	
 }
