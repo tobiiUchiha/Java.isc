@@ -26,4 +26,4 @@ Student name: Mohammad Modaresi
 - Greenfoot
 - MyEclipse
 
-3- Best data type for currency: BigDecimal
+3- Best data type for currency & accuracy: BigDecimal
