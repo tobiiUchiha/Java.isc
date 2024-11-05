@@ -7,7 +7,7 @@ public class FirstSession {
 		
 	public static void printMatrix(int n) {
 		
-		 int rows = n;
+	     int rows = n;
 	     int columns = n;
 	 
 	     int[][] array = new int[n][n];
