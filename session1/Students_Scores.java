@@ -18,12 +18,10 @@ public class FirstSession {
 		int maxScore = max(scores);
 		System.out.println("The best score is " + maxScore );
 		
-		
 	}
 	
 
 	public static void gradeCalculate(int[] scores, char[] grades) {
-		System.out.println(max(scores));
 		for (int i = 0; i < scores.length; i++) {
 			if (scores[i] >= 90)
 				grades[i] = 'A';
@@ -48,5 +46,4 @@ public class FirstSession {
 		return maxScore;
 		
 	}
-	
 }
