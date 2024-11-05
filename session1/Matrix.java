@@ -1,9 +1,10 @@
 package ir.isc.training1;
 
-public class FirstSession {
+public class dadawdaw {
 
 	public static void main(String[] args) {
-		printMatrix(12);
+		printMatrix(44);
+	}
 		
 	public static void printMatrix(int n) {
 		
