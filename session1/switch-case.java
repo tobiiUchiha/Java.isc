@@ -34,7 +34,7 @@ public class FirstSession {
 
 
 		// ---- second EX
-		String personName = "Seda";
+		String personName = "Sevda";
 		switch (personName) {
 		case "Ali","Mohammad","Reza" -> System.out.println("Welcome men!");
 		case "Fateme","Sevda","Zahra" -> System.out.println("Welcome women!");
