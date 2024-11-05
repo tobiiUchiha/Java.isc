@@ -48,9 +48,6 @@ public class Account {
 	}
 	
 	
-	
-	
-	
 	public void print() {
 		System.out.println("Account balance: "+ balance);
 		System.out.println("Account branch: " + branch);
